@@ -17,4 +17,4 @@ USAGE
 go run main.go <file_name>
 
 AUTHOR
-Miray Çakir
+SÜMEYYE GÜL GÜZEL
